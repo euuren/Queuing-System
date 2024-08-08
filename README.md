@@ -13,4 +13,5 @@ Upon returning from the break, the server serves the next customer in the queue 
 Self-checkout counters, on the other hand, act just like a human server, but with no breaks.
 
 Below is a sample run of the programme.
+
 ![image](https://github.com/user-attachments/assets/06d5d9d8-bf64-4e59-b811-335895152b3e)
